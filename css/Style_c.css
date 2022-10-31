@@ -1,0 +1,26 @@
+body{
+    padding-top: 10px;
+}
+
+
+#intro {
+ background-image: url("/imagens/pexels-pixabay-161449.png");
+ background-size: 100%;
+ background-attachment: fixed;
+ 
+ background-position-y: -80px ;
+}
+
+#botoes{
+    
+}
+
+#vermelho {
+    background-image: url("/imagens/banner-tiozinho.gif");
+    background-size: 100%;
+   }
+
+
+
+
+
