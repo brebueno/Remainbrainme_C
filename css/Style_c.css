@@ -12,15 +12,13 @@ body {
   padding-bottom: 140px;
 }
 
-#botoes {
-
-}
 
 #vermelho {
   background-image: url("/imagens/banner-tiozinho.gif");
   background-size: cover;
-  height: 300px;
-  padding: 20px;
+  height: 500px;
+  padding: 100px;
+  background-position: right;
 }
 
 @media screen and (max-width: 992px) {
@@ -28,10 +26,6 @@ body {
         background-position: right;
         width: 800px;
       }
-}
-
-#hospitais{
-  border-radius: ;
 }
 
 .site-footer
